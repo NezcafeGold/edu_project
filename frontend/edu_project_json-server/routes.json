@@ -1,0 +1,6 @@
+{
+	"/bell-backend/receipt/add": "/receipts_list",
+	"/bell-backend/receipt/list": "/receipts_list",
+	"/bell-backend/org/list": "/org",
+	"/bell-backend/services/list": "/services"
+}

@@ -1,0 +1,9 @@
+.PaymentReceiptForm .companyInfo {
+  font-size: 10pt;
+  float: left;
+}
+
+.PaymentReceiptForm .receiptFormalized {
+  font-size: 10pt;
+  float: right;
+}
